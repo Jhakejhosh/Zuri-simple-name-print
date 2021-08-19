@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppin', sans-serif;
+}
+body {
+    text-align: center;
+}
+#myName {
+    margin-top: 50px;
+}
+.zuri {
+    text-align: center;
+    margin-top: 20%;
+    display: flex;
+    flex-direction: column;
+}
+.zuri a {
+    margin: 10px;
+}
+.logo {
+    font-size: 25px;
+    letter-spacing: 3px;
+}
+.logo b {
+    color: red;
+}
